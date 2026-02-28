@@ -1,0 +1,19 @@
+{
+  "name": "tdd-project-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.29.0",
+    "jest": "^30.2.0",
+     "@babel/preset-env": "^7.29.0"
+  }
+}
